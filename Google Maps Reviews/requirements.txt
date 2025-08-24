@@ -1,9 +1,0 @@
-pandas==1.4.4
-plotly==5.18.0
-matplotlib==3.5.2
-openpyxl==3.0.10
-seaborn==0.13.2
-openai==1.47.1
-boto3==1.35.25
-streamlit==1.35.0
-xlsxwriter==3.2.0
