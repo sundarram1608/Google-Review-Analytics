@@ -29,3 +29,9 @@ I have considered certain top jewellery brands from USA & GCC market for my anal
 The data is web scraped using Google Maps Reviews Scraper created by Compass and maintained by Apify.
 **This data is opensource and publicly available**
 
+### How to use this repository?
+> Fork this to your repository <br>
+> Clone your forked repo to your local <br>
+`git clone 
+
+
