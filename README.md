@@ -18,10 +18,10 @@ This is a deployable Web application that aids with the analysis on Voice of the
 ### Architecture:
 ![Alt text](process.jpg)
 
->> Web Scraping
->> Leveraging LLM for extracting information
->> Structuring the LLM response
->> App development for Visualization
+- Web Scraping <br>
+- Leveraging LLM for extracting information <br>
+- Structuring the LLM response <br>
+- App development for Visualization <br>
 
 ### Dataset: <br>
 The dataset is derived from Google Maps reviews that is available open source on maps.google.com.<br>
