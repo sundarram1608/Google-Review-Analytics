@@ -1,4 +1,4 @@
-# Review-Analytics
+# Overview
 This repository features Leveraging Large Language Models, Sentiment Analytics (Tagging reviews, Grouping reviews based on topics, extracting relevant phrases) & app development.
 
 ## About:
@@ -15,5 +15,8 @@ This is a deployable Web application that aids with the analysis on Voice of the
 
 > Competitive Advantage: Where do we stand amidst competition?<br>
 
-### App Architecture:
+### Architecture:
 ![Alt text](process.jpg)
+
+### Dataset: <br>
+This 
