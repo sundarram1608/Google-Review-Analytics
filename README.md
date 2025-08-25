@@ -42,7 +42,7 @@ The data is web scraped using Google Maps Reviews Scraper created by Compass and
 ### How to use this repository?
 - Fork the repository <br>
 - Clone your forked repo to your local <br>
-`git clone https://github.com/sundarram1608/Google-Review-Analytics.git`
+```git clone https://github.com/sundarram1608/Google-Review-Analytics.git```
 - Open terminal and follow the below CLI prompts one by one<br>
 `cd “path to directory“` <br>
 `python3 -m venv myenv` <br>
