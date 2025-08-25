@@ -31,9 +31,9 @@ The data is web scraped using Google Maps Reviews Scraper created by Compass and
 
 ### Pre requisites
 - The following should be installed in your local environment:
-> git <br>
-> pip <br>
-> python3 <br>
+> git <br><br>
+> pip <br><br>
+> python3 <br><br>
 - An active OpenAI API key <br>
 - A suitable IDE for making any changes to the code.
 
