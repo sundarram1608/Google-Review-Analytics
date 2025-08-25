@@ -29,9 +29,26 @@ I have considered certain top jewellery brands from USA & GCC market for my anal
 The data is web scraped using Google Maps Reviews Scraper created by Compass and maintained by Apify.
 **This data is opensource and publicly available**
 
+### Pre requisites
+- The following should be installed in your local environment:
+> git <br>
+> pip <br>
+> python3 <br>
+- An active OpenAI API key <br>
+- A suitable IDE for making any changes to the code.
+
 ### How to use this repository?
-> Fork this to your repository <br>
-> Clone your forked repo to your local <br>
-`git clone 
+- Fork the repository <br>
+- Clone your forked repo to your local <br>
+`git clone https://github.com/sundarram1608/Google-Review-Analytics.git`
+- Open terminal and follow the below CLI prompts one by one<br>
+`cd “path to directory“` <br>
+`python3 -m venv myenv` <br>
+`source myenv/bin/activate` <br>
+`pip install -r requirements.txt` <br>
+`streamlit run GMB_Sentiment_Analytics.py` <br>
+
+The App is up and running.
+
 
 
