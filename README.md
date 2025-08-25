@@ -49,26 +49,16 @@ git clone https://github.com/sundarram1608/Google-Review-Analytics.git
 ```bash
 cd “path to directory“
 ```
-<br>
-
 ```bash
 python3 -m venv myenv
 ```
-<br>
-
 ```bash
 source myenv/bin/activate
 ``` 
-<br>
-
 ```bash
 pip install -r requirements.txt
 ```
-<br>
-
 ```bash
 streamlit run GMB_Sentiment_Analytics.py
 ```
-<br>
-
 The App is up and running.
