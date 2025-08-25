@@ -18,8 +18,14 @@ This is a deployable Web application that aids with the analysis on Voice of the
 ### Architecture:
 ![Alt text](process.jpg)
 
+>> Web Scraping
+>> Leveraging LLM for extracting information
+>> Structuring the LLM response
+>> App development for Visualization
+
 ### Dataset: <br>
 The dataset is derived from Google Maps reviews that is available open source on maps.google.com.<br>
 I have considered certain top jewellery brands from USA & GCC market for my analysis. 
-The data is web scraped using a   
+The data is web scraped using Google Maps Reviews Scraper created by Compass and maintained by Apify.
+**This data is opensource and publicly available**
 
