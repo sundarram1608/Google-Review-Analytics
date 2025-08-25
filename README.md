@@ -19,4 +19,7 @@ This is a deployable Web application that aids with the analysis on Voice of the
 ![Alt text](process.jpg)
 
 ### Dataset: <br>
-This 
+The dataset is derived from Google Maps reviews that is available open source on maps.google.com.<br>
+I have considered certain top jewellery brands from USA & GCC market for my analysis. 
+The data is web scraped using a   
+
