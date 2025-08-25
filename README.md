@@ -1,7 +1,7 @@
 # Review-Analytics
 This repository features Leveraging Large Language Models, Sentiment Analytics (Tagging reviews, Grouping reviews based on topics, extracting relevant phrases) & app development.
 
-## About:
+## About i:
 This is a deployable Web application that aids with the analysis on Voice of the customer from Google Maps Reviews.
 
 #### This app provides insights on the following:
