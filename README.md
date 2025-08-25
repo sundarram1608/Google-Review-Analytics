@@ -42,9 +42,14 @@ The data is web scraped using Google Maps Reviews Scraper created by Compass and
 ### How to use this repository?
 - Fork the repository <br>
 - Clone your forked repo to your local <br>
-```git clone https://github.com/sundarram1608/Google-Review-Analytics.git```
+```python
+git clone https://github.com/sundarram1608/Google-Review-Analytics.git
+```
 - Open terminal and follow the below CLI prompts one by one<br>
-`cd “path to directory“` <br>
+```python
+cd “path to directory“
+```
+<br>
 `python3 -m venv myenv` <br>
 `source myenv/bin/activate` <br>
 `pip install -r requirements.txt` <br>
@@ -52,5 +57,14 @@ The data is web scraped using Google Maps Reviews Scraper created by Compass and
 
 The App is up and running.
 
+```python
+# This is a sample Python code block
+def greeting(name):
+  return f"Hello, {name}!"
+
+# Call the function
+message = greeting("World")
+print(message)
+```
 
 
