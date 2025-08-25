@@ -42,29 +42,33 @@ The data is web scraped using Google Maps Reviews Scraper created by Compass and
 ### How to use this repository?
 - Fork the repository <br>
 - Clone your forked repo to your local <br>
-```python
+```bash
 git clone https://github.com/sundarram1608/Google-Review-Analytics.git
 ```
 - Open terminal and follow the below CLI prompts one by one<br>
-```python
+```bash
 cd “path to directory“
 ```
 <br>
-`python3 -m venv myenv` <br>
-`source myenv/bin/activate` <br>
-`pip install -r requirements.txt` <br>
-`streamlit run GMB_Sentiment_Analytics.py` <br>
+
+```bash
+python3 -m venv myenv
+```
+<br>
+
+```bash
+source myenv/bin/activate
+``` 
+<br>
+
+```bash
+pip install -r requirements.txt
+```
+<br>
+
+```bash
+streamlit run GMB_Sentiment_Analytics.py
+```
+<br>
 
 The App is up and running.
-
-```python
-# This is a sample Python code block
-def greeting(name):
-  return f"Hello, {name}!"
-
-# Call the function
-message = greeting("World")
-print(message)
-```
-
-
